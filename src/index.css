@@ -59,13 +59,13 @@ code {
   background-color: rgba(114, 114, 245, 0.5);
   border-radius: 10px;
   box-shadow: 0 0 10px rgb(94, 93, 93);
-  margin-top: 65px;
+  margin-top: 35px;
   padding: 40px;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .temperature {
-  font-size: 2.8em;
+  font-size: 2.6em;
   text-shadow: 1px 4px #f1e3e3;
 }
 
